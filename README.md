@@ -23,7 +23,7 @@ Last-year Computer Science Student at **TELECOM Nancy** (France), major **Softwa
 
 - **Resume :** [Download my English CV (PDF)](./CV/CV_EN_AnneREGENNASS.pdf)
 - **Email :** anne.regennass@gmail.com
-- **LinkedIn :** [Anne Regennass](www.linkedin.com/in/anne-regennass-129532374)
+- **LinkedIn :** [Anne Regennass](https://www.linkedin.com/in/anne-regennass-129532374)
 
 ### Tech Stack
 * **Languages :** C++, C#, C, Python, OCaml, Java, HTML/CSS, Matlab
@@ -66,7 +66,7 @@ Actuellement en dernière année à **TELECOM Nancy**, spécialité **Ingénieri
 - **CV :** [Télécharger mon CV Français (PDF)](./CV/CV_FR_AnneREGENNASS.pdf)
 - **Email :** anne.regennass@gmail.com
 - **Téléphone :** +33 (0)6 95 48 45 11
-- **LinkedIn:** [Anne Regennass](www.linkedin.com/in/anne-regennass-129532374)
+- **LinkedIn:** [Anne Regennass](https://www.linkedin.com/in/anne-regennass-129532374)
 
 ### Stack Technique
 * **Langages:** C++, C#, C, Python, OCaml, Java, HTML/CSS, Matlab, Go
