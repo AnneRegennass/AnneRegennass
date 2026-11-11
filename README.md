@@ -36,7 +36,7 @@ Last-year Computer Science Student at **TELECOM Nancy** (France), major **Softwa
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **Lagrandia Game Projet (WIP)** | 3D Open-World RPG combining exploration, village management, and a dynamic profession system. | Godot | [Repo](https://github.com/AnneRegennass/LagrandiaProject) |
-| **C++ Game Project (WIP)** | 2D | C++, Raylib | [Repo](https://github.com/AnneRegennass/hangar-survival_CPP)  | 
+| **C++ Game Project (WIP)** | Pixel art survival game where energy is both health and ammo. | C++, Raylib | [Repo](https://github.com/AnneRegennass/hangar-survival_CPP)  | 
 | **PIDR - Unity and C\#** | "Make the invisible visible" AR/VR laboratory research project for Meta Quest 3. | Unity, C\# | [Repo](https://github.com/AnneRegennass/PIDR_Uity-CSharp) |
 | **AI Project - Neural Network** | Q-Learning / Neural Network integration in a Q\*Bert game with parameter tuning (Team of 3). | Python | [Repo](https://github.com/AnneRegennass/QBert_AI-Project) |
 | **PPII 2 - Crossy Road** | Crossy Road arcade game recreation using low-level graphics (Team of 4). | C, SDL | [Repo](https://github.com/AnneRegennass/Crossy-Road_C-Project) |
@@ -79,7 +79,7 @@ Actuellement en dernière année à **TELECOM Nancy**, spécialité **Ingénieri
 | Projet | Description | Technologies Utilisées | Lien Dépôt |
 | :--- | :--- | :--- | :---: |
 | **Projet Lagrandia (En Cours)** | RPG 3D Open-World mêlant exploration, reconstruction de village et système de métiers dynamique. | Godot | [Repo](https://github.com/AnneRegennass/LagrandiaProject) |
-| **Projet Jeu en C++ (En Cours)** | Petit jeu 2D d'action en vue du dessus| C++, Raylib | [Repo](https://github.com/AnneRegennass/hangar-survival_CPP)  | 
+| **Projet Jeu en C++ (En Cours)** | Jeu de survie en pixel art où l’énergie est à la fois vie et munitions.| C++, Raylib | [Repo](https://github.com/AnneRegennass/hangar-survival_CPP)  | 
 | **PIDR** | Projet "Rendre visible l'invisible" - Travail en laboratoire pour un casque Meta Quest 3. | Unity, C\# | [Repo](https://github.com/AnneRegennass/PIDR_Uity-CSharp) |
 | **Projet IA - Réseau de neurones** | Création d'un jeu de Q*Bert et travail sur réseaux de neurone - expérimentation et adaptation des paramètres, en groupe de 3. | Python | [Repo](https://github.com/AnneRegennass/QBert_AI-Project) |
 | **PPII 2 - Crossy Road** | Création d'un jeu de Crossy Road en groupe de 4. | C, SDL | [Repo](https://github.com/AnneRegennass/Crossy-Road_C-Project) |
